@@ -1,0 +1,6 @@
+{
+  "/userprofile/page": "app/userprofile/page.js",
+  "/getuserdetails/[...userid]/page": "app/getuserdetails/[...userid]/page.js",
+  "/getuserdetails/page": "app/getuserdetails/page.js",
+  "/signup/page": "app/signup/page.js"
+}

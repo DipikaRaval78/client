@@ -1,0 +1,30 @@
+{
+  "pages": {
+    "/userprofile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/userprofile/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/getuserdetails/[...userid]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/getuserdetails/[...userid]/page.js"
+    ],
+    "/getuserdetails/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/getuserdetails/page.js"
+    ],
+    "/signup/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/signup/page.js"
+    ]
+  }
+}
