@@ -1,4 +1,4 @@
-// File: C:\Users\Dipika\PHC_TEST\client\src\app\userprofile\page.tsx
+// File: C:\Users\Dipika\CRUD_APP\client\src\app\userprofile\page.tsx
 import * as entry from '../../../../src/app/userprofile/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
